@@ -7,7 +7,7 @@
 # Git-Branch 전략
 - 깃허브 각 Repository 로컬로 clone 후 새로운 Branch 파서 작업 후 Commit & Push 후 Pull Request 작성, Merge는 하지말 것
 
-# 커밋 컨벤션
+# Commit 컨벤션
 ```
 feat : 새로운 기능 추가
 fix : 버그 수정
