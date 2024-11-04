@@ -1,5 +1,9 @@
 # 사이트 [https://www.sikyeojo.shop](https://www.sikyeojo.shop)
-
+- Front-End Server: 8081
+- API Gateway Server: 8090
+- Auth Server: 8070
+- Back-End Server: 8083
+  
 # 코드 컨벤션
 - SonarLint
 - 네이버 포멧터 적용(1.1.3 까지만 진행)
